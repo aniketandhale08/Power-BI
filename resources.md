@@ -11,4 +11,9 @@
 
 
 #### Date & Time
+1. Calculate the count of days in  between two dates using tab Add column--> Custom column
+2. Add column--> Duration (Weeks, Days, Hours, minute)
 
+
+
+01:06 timestamp
