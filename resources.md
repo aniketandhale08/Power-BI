@@ -8,6 +8,8 @@
 7. Date transformation (Year, months, weeks, days)
 8. Merge columns/ Split columns/ Trim
 9. Change the order/ sequence of columns
+10. Make format same for all dates.
+    right click on column--> chnage type--> using local--> select date as datatype--> select required locale.
 
 #### Further steps:
 1. Calculate the count of days in  between two dates using tab Add column--> Custom column
