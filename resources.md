@@ -55,11 +55,30 @@
 12. **Other functions**: Functions that don't fit into the above categories, such as NOW and GUID.
 
 
+**Text Functions in DAX**
 
-
-
-
-
+**1. LEFT**: Returns the specified number of characters from the start of a text string.
+**2. LEN**: Returns the number of characters in a text string.  
+**3. LOWER**: Converts all letters in a text string to lowercase.  
+**4. MID**: Returns a string of characters from the middle of a text string, given a starting position and length.  
+**5. REPLACE**: Replaces part of a text string with a different text string.  
+**6. REPT**: Repeats text a given number of times. Use REPT to fill a cell with a number of instances of a text string.  
+**7. RIGHT**: Returns the specified number of characters from the end of a text string.  
+**8. SUBSTITUTE**: Replaces existing text with new text in a text string.  
+**9. COMBINEVALUES**: Combines the given set of operands using a specified delimiter.  
+**10. CONCATENATE**: Joins two text strings into one text string.  
+**11. CONCATENATEX**: Evaluates expression for each row on the table, then returns the concatenation of those values in a single string result, separated by the specified delimiter.  
+**12. EXACT**: Checks whether two text strings are exactly the same and returns TRUE or FALSE. EXACT is case-sensitive.  
+**13. FIND**: Returns the starting position of one text string within another text string. FIND is case-sensitive and accent-sensitive.  
+**14. FIXED**: Rounds a number to the specified number of decimals and returns the result as text with optional commas.  
+**15. FORMAT**: Converts a value to text in the specified number format.  
+**16. TOJSON**: Converts the records of a table into a JSON text.  
+**17. TRIM**: Removes all spaces from a text string except for single spaces between words.  
+**18. UNICHAR**: Returns the Unicode character that is referenced by the given numeric value.  
+**19. UNICODE**: Returns the number (code point) corresponding to the first character of the text.  
+**20. UPPER**: Converts a text string to all uppercase letters.  
+**21. VALUE**: Converts a text string that represents a number to a number.  
+**22. TOCSV**: Converts the records of a table into a CSV (comma-separated values) text.
 
 
 
