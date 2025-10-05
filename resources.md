@@ -1,4 +1,4 @@
-### Steps to follow in data transformation
+## Steps to follow in data transformation
 1. Name the tables after importing
 2. Use the first row as a header
 3. Deal with Null values/ make actuals in the column if they are not (format: null), use the replace function.
@@ -17,5 +17,13 @@
 3. Adding Conditional Columns to Power BI
 4. Merge Queries and Append Queries in Power BI (get column from another table, merge same table data in stack like form)
 5. Check newely creaetd columns data types/format
+6. Pivoting and Unpivoting of Data in Power BI
+- to transpose the table data use this feature "Unpivot other columns"
+- using this, lenthy table will get shrink to small table with proper data readability.
+- Using "Pivot table" fiunction make table more readable.
+
+
+## Steps to follow in data modelling
+
 
 01:36 timestamp
