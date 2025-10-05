@@ -27,6 +27,9 @@
 1. Managing Data Relationships
    - to make relationship betwwen table you can view the 3rd tab "Model View", here you can see the diagram of data model.
    - to make relationship between two tables find the common column smong them.
+2. Understood the cardinality of data model of your report.
+3. Make selection of Cross-Filter Direction.
+4. 
 
 
 02:00 timestamp
