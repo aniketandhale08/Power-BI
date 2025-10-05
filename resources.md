@@ -102,13 +102,17 @@
 **7. Miscellaneous Operators**: Used for various purposes, such as the colon (:) operator used in date and time functions and the semicolon (;) operator used in the SWITCH function.
 
 
-
 **Card & KPI**
 
 1. **Card:** Displays a single value like total sales or number of customers. Best for showing simple, standalone metrics without comparisons.
 2. **KPI:** Compares a current value to a target or previous value with visual cues. Ideal for tracking performance trends and progress toward goals.
 
 
+
+**Tooltips**
+- They are mainly used for showing more details about the chart; by hovering over the chart, you can view the chart that you created in tooltips.
+- enhance interactivity by displaying additional context or visuals when users hover over data points, helping to keep reports clean while offering deeper insights.  
+- You need to create a new page where you will design the charts that will be shown as tooltips.
 
 
 
