@@ -40,7 +40,7 @@
    - table name: name of table where that column is present
    - column: name of column of which you want to create a measure
 
-**Some functions in Power BI:**
+#### Some functions in Power BI:
 1. **Date and Time functions**: Functions for working with date and time values, such as DATE, NOW, and YEAR.
 2. **Text functions**: Functions for working with text values, such as CONCATENATE, LOWER, and UPPER.
 3. **Information functions**: Functions for obtaining information about values and data types, such as ISTEXT and ISNUMBER.
@@ -55,7 +55,7 @@
 12. **Other functions**: Functions that don't fit into the above categories, such as NOW and GUID.
 
 
-**Text Functions in DAX**
+### Text Functions in DAX
 
 **1. LEFT**: Returns the specified number of characters from the start of a text string.
 **2. LEN**: Returns the number of characters in a text string.  
@@ -80,7 +80,7 @@
 **21. VALUE**: Converts a text string that represents a number to a number.  
 **22. TOCSV**: Converts the records of a table into a CSV (comma-separated values) text.
 
-**Logical function in DAX**
+### Logical function in DAX
 
 **1. IF**: Returns a value based on a specified condition. The syntax is IF(condition, [value_if_true], [value_if_false]).
 **2. AND**: Returns TRUE if all its arguments are TRUE, and returns FALSE otherwise. The syntax is AND(condition1, [condition2], ...).  
@@ -91,11 +91,15 @@
 **7. IFNA**: Returns the first argument if it is not the #N/A error value, otherwise it returns the second argument. The syntax is IFNA(value, value_if_NA).
 
 
+### Types of operators in DAX
 
-
-
-
-
+**1. Arithmetic Operators**: Used to perform arithmetic operations such as addition (+), subtraction (-), multiplication (*), and division (/).
+**2. Comparison Operators**: Used to compare values and return a logical result (TRUE or FALSE). These include equal to (=), not equal to (<>), greater than (>), less than (<), greater than or equal to (>=), and less than or equal to (<=).  
+**3. Logical Operators**: Used to perform logical operations such as AND, OR, and NOT.  
+**4. Concatenation Operators**: Used to combine text values, such as & and CONCATENATE.  
+**5. Reference Operators**: Used to reference cells or ranges, such as [] and [].  
+**6. Parenthesis**: Used to control the order of operations in a formula, such as () and [].  
+**7. Miscellaneous Operators**: Used for various purposes, such as the colon (:) operator used in date and time functions and the semicolon (;) operator used in the SWITCH function.
 
 
 
