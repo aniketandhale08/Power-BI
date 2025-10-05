@@ -115,8 +115,9 @@
 - You need to create a new page where you will design the charts that will be shown as tooltips.
 
 
-
-
+**Some add on things**
+1. Tool Tips in Power BI
+2. Bookmarks and Buttons
 
 
 
