@@ -34,8 +34,8 @@
 
 ## DAX (Data Analysis Expressions)
 **New column & New Measure**
-1. New column: Based on existing columns, you want to create new column. each rows will have record and this column will present physically in data model.
-2. New Measure: Based on existing columns, If you want to create a single calculated value from any existing column (values like, sum)
+1. New column: Based on existing columns, you want to create new column. each rows will have record and this column will present physically in data model. 
+2. New Measure: Based on existing columns, If you want to create a single calculated value from any existing column (values like, sum) this column will **Not** present physically in data model. you can able to use it while creating visuals by draging from data panal. measures are mainly used for creating a single value or can say to use them in KPIs.
 
 
 
