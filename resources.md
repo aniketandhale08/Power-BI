@@ -103,7 +103,10 @@
 
 
 
+**Card & KPI**
 
+1. **Card:** Displays a single value like total sales or number of customers. Best for showing simple, standalone metrics without comparisons.
+2. **KPI:** Compares a current value to a target or previous value with visual cues. Ideal for tracking performance trends and progress toward goals.
 
 
 
