@@ -48,7 +48,7 @@
 5. **Aggregation functions**: Functions for aggregating data, such as SUM, AVERAGE, and COUNT.
 6. **Time Intelligence functions**: Functions for working with time-based data, such as SAMEPERIODLASTYEAR and TOTALYTD.
 7. **Logical functions**: Functions for working with logical values and conditions, such as IF and SWITCH.
-8.**Lookup functions**: Functions for looking up values in related tables, such as LOOKUPVALUE and RELATED.
+8. **Lookup functions**: Functions for looking up values in related tables, such as LOOKUPVALUE and RELATED.
 9. **Math and Trigonometry functions**: Functions for performing mathematical calculations, such as ABS and SIN.
 10. **Statistical functions**: Functions for working with statistical data, such as STDEV and PERCENTILE.
 11. **Financial functions**: Functions for performing financial calculations, such as NPV and IRR.
