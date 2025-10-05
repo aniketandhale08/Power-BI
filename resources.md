@@ -24,6 +24,9 @@
 
 
 ## Steps to follow in data modelling
+1. Managing Data Relationships
+   - to make relationship betwwen table you can view the 3rd tab "Model View", here you can see the diagram of data model.
+   - to make relationship between two tables find the common column smong them.
 
 
-01:36 timestamp
+02:00 timestamp
