@@ -29,7 +29,29 @@
    - to make relationship between two tables find the common column smong them.
 2. Understood the cardinality of data model of your report.
 3. Make selection of Cross-Filter Direction.
-4. 
+
+
+
+## DAX (Data Analysis Expressions)
+**New column & New Measure**
+1. New column: Based on existing columns, you want to create new column. each rows will have record and this column will present physically in data model.
+2. New Measure: Based on existing columns, If you want to create a single calculated value from any existing column (values like, sum)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 02:00 timestamp
