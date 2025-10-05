@@ -121,6 +121,7 @@
 3. Decomposition tree
 4. QnA
 5. Smart Narrative
+6. Mobile View
 
 
 
