@@ -16,5 +16,6 @@
 2. Add column--> Duration (Weeks, Days, Hours, minute)
 3. Adding Conditional Columns to Power BI
 4. Merge Queries and Append Queries in Power BI (get column from another table, merge same table data in stack like form)
+5. Check newely creaetd columns data types/format
 
-01:06 timestamp
+01:36 timestamp
