@@ -80,6 +80,30 @@
 **21. VALUE**: Converts a text string that represents a number to a number.  
 **22. TOCSV**: Converts the records of a table into a CSV (comma-separated values) text.
 
+**Logical function in DAX**
+
+**1. IF**: Returns a value based on a specified condition. The syntax is IF(condition, [value_if_true], [value_if_false]).
+**2. AND**: Returns TRUE if all its arguments are TRUE, and returns FALSE otherwise. The syntax is AND(condition1, [condition2], ...).  
+**3. OR**: Returns TRUE if any of its arguments are TRUE, and returns FALSE otherwise. The syntax is OR(condition1, [condition2], ...).  
+**4. NOT**: Reverses the logical value of its argument. The syntax is NOT(condition).  
+**5. SWITCH**: Returns a value based on the first TRUE expression. The syntax is SWITCH(expression, value1, result1, [default or value2, result2], ...).  
+**6. IFERROR**: Returns the first argument if it is not an error value, otherwise it returns the second argument. The syntax is IFERROR(value, value_if_error).  
+**7. IFNA**: Returns the first argument if it is not the #N/A error value, otherwise it returns the second argument. The syntax is IFNA(value, value_if_NA).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
