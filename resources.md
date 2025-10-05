@@ -118,6 +118,9 @@
 #### Some add on things
 1. Tool Tips in Power BI
 2. Bookmarks and Buttons
+3. Decomposition tree
+4. QnA
+5. Smart Narrative
 
 
 
