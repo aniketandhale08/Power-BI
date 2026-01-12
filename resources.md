@@ -124,8 +124,3 @@
 6. Mobile View
 
 
-
-
-
-
-02:00 timestamp
